@@ -1,0 +1,10 @@
+.ct{
+    background: wheat;
+}
+.element{
+    background: lightblue;
+    height: 30px;
+    text-align: center;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
